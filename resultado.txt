@@ -1,0 +1,8 @@
+Resultado, Valor
+Somatorio, 82
+Media, 9.11
+Somatorio diagonal principal, 38
+Media diagonal secundaria, 5.67
+Ocorrencias do numero 0, 0
+Maior valor, 32
+Menor valor, 2
